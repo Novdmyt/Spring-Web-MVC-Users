@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example.app</groupId>
-    <artifactId>Spring-Web-MVC-Shop</artifactId>
+    <artifactId>Spring-Web-MVC-User</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
